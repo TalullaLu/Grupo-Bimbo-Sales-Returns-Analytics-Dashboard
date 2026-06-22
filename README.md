@@ -1,9 +1,3 @@
-# Grupo Bimbo Sales & Returns Analytics Dashboard
-
-**Power BI Sales & Returns Analytics | Business Intelligence Portfolio Project**
-
-![Sales Overview](screenshots/sales_overview.png)
-
 ## Project Overview
 
 This project showcases a comprehensive **Power BI analytics solution** developed for Grupo Bimbo, a global leader in the baking industry. The interactive dashboard provides clear visibility into sales performance, distribution efficiency, product returns, and customer behaviour across multiple channels and depots.
@@ -12,7 +6,7 @@ The solution enables data-driven decision making by identifying revenue drivers,
 
 **Key Technologies**: Power BI, Power Query, DAX, Star Schema Data Modelling
 
-**[View Full Business Report](report/Business_Report.pdf)**
+**[View Full Business Report](Business_Report.pdf)**
 
 ## Business Challenge
 
