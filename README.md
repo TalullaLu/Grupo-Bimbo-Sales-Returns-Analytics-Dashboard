@@ -110,7 +110,6 @@ Grupo Bimbo manages complex operations involving multiple sales channels (Retail
 - **DAX** – Advanced calculations and measures
 - **Star Schema** – Professional data modelling
 
-
 ## Getting Started
 1. Download **Power BI Desktop** 
 2. Open `Grupo_Bimbo.pbix`
