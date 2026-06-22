@@ -41,6 +41,5 @@ The solution enables data-driven decision making by identifying revenue drivers,
 1. Download **Power BI Desktop** (Free): [powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop/)
 2. Open `Grupo_Bimbo.pbix`
 3. Explore the interactive dashboards
-1. Download **Power BI Desktop** (Free): [powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop/)
 2. Open `Grupo_Bimbo.pbix`
 3. Explore the interactive dashboards
