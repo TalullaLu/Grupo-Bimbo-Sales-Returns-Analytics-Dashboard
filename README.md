@@ -109,8 +109,9 @@ Grupo Bimbo manages complex operations involving multiple sales channels (Retail
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Advanced calculations and measures
 - **Star Schema** – Professional data modelling
-- 
+
 ## Getting Started
-1. Clone the repository
-2. Open `powerbi/Grupo_Bimbo.pbix`
-3. Explore the interactive dashboards
+1. **Clone the repository** to your computer
+2. **Download and install Power BI Desktop** 
+3. Open the report: `Grupo_Bimbo.pbix`
+4. Explore the interactive dashboards and filters
